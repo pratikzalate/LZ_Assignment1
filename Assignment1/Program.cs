@@ -11,7 +11,7 @@ namespace Assignment1
             int size = 0;
             Console.Write("Enter array size: ");
             size = int.Parse(Console.ReadLine());
-            if (size < 5)
+            if (size < 30)
             {
                 Console.Write("Please Enter array size grater than 30: ");
                 size = int.Parse(Console.ReadLine());
@@ -28,14 +28,14 @@ namespace Assignment1
                 arr[i] = int.Parse(Console.ReadLine());
 
             }
-            printArray(arr, size);
+//            printArray(arr, size);
 
             void printArray(int[] arr, int size)
             {
-//                Console.WriteLine("Array elements are:");
+                Console.WriteLine("Array elements are:");
                 foreach (var number in arr)
                 {
-//                    Console.WriteLine(number);
+                    Console.WriteLine(number);
                 }
             }
 
@@ -59,12 +59,13 @@ namespace Assignment1
 
             string[] fileLines = File.ReadAllLines(file);
            
-//            Console.WriteLine("Array elements are: ");
             for (int i = 0; i < fileLines.Length; i++)
             {
                 arr[i] = int.Parse(fileLines[i]);
-//                Console.Write(" {0}", arr[i]);
             }
+//            printArray(arr, size);
+
+            
             foreach (var number in arr)
             {
                 if (number == input)
