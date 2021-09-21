@@ -1,0 +1,14 @@
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.exe
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.deps.json
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.runtimeconfig.json
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.runtimeconfig.dev.json
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.dll
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.pdb
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.csproj.AssemblyReference.cache
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.AssemblyInfoInputs.cache
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.AssemblyInfo.cs
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.dll
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.pdb
+C:\Users\zalatep\source\repos\Assignment2Solution\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.genruntimeconfig.cache
