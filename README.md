@@ -1,9 +1,6 @@
 # LZ_Assignments_on_C#
 
-# Assignment1
-Branch: Main |
-Assignment1 folder contains solution for Assignment1
+# Assignment3.1: String Calculator on Windows Forms
+Branch: StringCalculator=WindowsFormApp1 |
 
-# Assignment2
-Branch: LZ_Assignment2 |
-Assignment2 folder contains solution for Assignment2
+This is My First Desktop app project in c# using Windows Forms.
