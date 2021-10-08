@@ -1,0 +1,16 @@
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\bin\Release\netcoreapp3.1\StringCalculator.exe
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\bin\Release\netcoreapp3.1\StringCalculator.deps.json
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\bin\Release\netcoreapp3.1\StringCalculator.runtimeconfig.json
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\bin\Release\netcoreapp3.1\StringCalculator.runtimeconfig.dev.json
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\bin\Release\netcoreapp3.1\StringCalculator.dll
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\bin\Release\netcoreapp3.1\StringCalculator.pdb
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\obj\Release\netcoreapp3.1\StringCalculator.csproj.AssemblyReference.cache
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\obj\Release\netcoreapp3.1\StringCalculator.Form1.resources
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\obj\Release\netcoreapp3.1\StringCalculator.csproj.GenerateResource.cache
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\obj\Release\netcoreapp3.1\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\obj\Release\netcoreapp3.1\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\obj\Release\netcoreapp3.1\StringCalculator.AssemblyInfo.cs
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\obj\Release\netcoreapp3.1\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\obj\Release\netcoreapp3.1\StringCalculator.dll
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\obj\Release\netcoreapp3.1\StringCalculator.pdb
+C:\Users\zalatep\source\repos\StringCalculator_sln\StringCalculator\obj\Release\netcoreapp3.1\StringCalculator.genruntimeconfig.cache
