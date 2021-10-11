@@ -1,5 +1,0 @@
-C:\Users\zalatep\Downloads\C#\StringCalculator.exe
-C:\Users\zalatep\Downloads\C#\StringCalculator.dll
-C:\Users\zalatep\Downloads\C#\StringCalculator.deps.json
-C:\Users\zalatep\Downloads\C#\StringCalculator.runtimeconfig.json
-C:\Users\zalatep\Downloads\C#\StringCalculator.pdb
